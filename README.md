@@ -1,7 +1,6 @@
-## Hi there 👋, I'm [Nama Kamu]  
-🔭 I’m currently working on [Proyek kamu]  
-🌱 I’m currently learning [Teknologi yang dipelajari]  
-
+## Hi there 👋, I'm Krysna
+🔭 I’m currently working on ....
+🌱 I’m currently learning ......
 ### GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
