@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KrysnaRachmatR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there 👋, I'm [Nama Kamu]  
+🔭 I’m currently working on [Proyek kamu]  
+🌱 I’m currently learning [Teknologi yang dipelajari]  
 
-<!---
-KrysnaRachmatR/KrysnaRachmatR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+### Programming Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
